@@ -37,11 +37,9 @@ CREATE TABLE `validation` (
 --
 
 INSERT INTO `validation` (`Username`, `Password`) VALUES
-('akshay', 'akshay123'),
-('pratheeksha', 'pratheeksha123'),
-('srushti', 'srushti123'),
-('lokpavan', 'lokpavan123'),
-('suhas', 'suhas123');
+('kartik', 'kartik@123'),
+('lokpavan', 'lokpavan123');
+
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
